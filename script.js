@@ -36,3 +36,4 @@ reloadBtn.addEventListener("click", fetchUserData);
 
 // Initial fetch
 fetchUserData();
+
